@@ -7,4 +7,3 @@
     * [Gitbook安装插件](part1/1.3.md)
 	* [Gitbook部署到github](part1/1.4.md)
 
-

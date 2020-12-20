@@ -9,7 +9,8 @@
     "plugins": [
         "bottom-navigation",
 		"donate",
-        "expandable-chapters"
+        "expandable-chapters",
+		"splitter"
     ],
 
 
