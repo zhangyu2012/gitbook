@@ -10,14 +10,16 @@
         "bottom-navigation",
 		"donate",
         "expandable-chapters",
-		"splitter"
+		"splitter",
+		"back-to-top-button" 
+		
     ],
 
 
     "pluginsConfig": {
         "donate": {
-            "wechat": "/image/weixin.jpg",
-            "alipay": "/image/zhifubao.jpg",
+            "wechat": "https://zhangyu2012.github.io/gitbook/image/weixin.jpg",
+            "alipay": "https://zhangyu2012.github.io/gitbook/image/zhifubao.jpg",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏",
@@ -28,6 +30,5 @@
 			"titleColor": "#3884FE",
 			"borderColor": "#3884FE"
 		}
-       
     }
 }
