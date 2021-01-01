@@ -7,5 +7,6 @@
     * [Gitbook安装插件](part1/1.3.md)
 	* [Gitbook部署到github](part1/1.4.md)
 	* [gitbook安装插件美化](part1/1.5.md)
+	* [github绑定你自己的域名](part1/1.6.md)
 
 
